@@ -1,4 +1,16 @@
-import os
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#   "pandas",
+#   "requests",
+#   "matplotlib",
+#   "seaborn",
+#   "python-dotenv",
+#   "numpy",
+#   "scikit-learn"
+# ]
+# ///import os
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
